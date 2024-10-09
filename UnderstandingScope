@@ -26,7 +26,7 @@ namespace _14_UnderstandingScope
                 //Console.WriteLine(l);     //out of scope
             }
 
-            //Console.WriteLine(i);     //out of scope
+            //Console.WriteLine(i);     
             Console.WriteLine("Outside value of for: " + j);
             Console.WriteLine("Outside for the for: " + k);
 
